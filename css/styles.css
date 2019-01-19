@@ -1,6 +1,16 @@
  
 body{
- 	background-image:url(https://heabbi.com/wp-content/uploads/2018/07/samples-hip-hop.jpg);
- font-family: 'ZCOOL KuaiLe', cursive;}
+ 	background-image:url(https://st3.depositphotos.com/9962190/15861/v/1600/depositphotos_158619372-stock-illustration-hip-hop-graffiti-icon.jpg);
+ font-family: 'ZCOOL KuaiLe',
+ 
+  cursive;
+  color: blue
+  font-size: 100px;
+  }
+.gerson {
+	color: red
+}
+.roa {
+	color:red;
 
-
+}
